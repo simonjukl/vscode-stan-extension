@@ -308,7 +308,7 @@
           },
           "patterns": [
             {
-              "include": "$base"
+              "include": "$self"
             }
           ]
         },
